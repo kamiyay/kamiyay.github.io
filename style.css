@@ -47,6 +47,10 @@ body {
   font-size: 12px;
 }
 
+.content a {
+  text-decoration: none;
+}
+
 .paragraph {
   text-indent: 2em;
 
